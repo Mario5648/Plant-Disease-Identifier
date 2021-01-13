@@ -3,7 +3,10 @@ This is a convolutional neural network that analyzes a picture of a plant and wi
 
 
 ## Problem:
-With agriculture having to be pushed to the very limits inorder to feed millions of people at once, it has become way to hard for farmers to analyze the plant health fast enough all at an affordable cost. Farmers have to waste time and money in order to identify what is wrong with plants. Once the farmer gets the result it may already be too late. AI can help farmers world wide to identify what is wrong with their plants in an instant all while saving them money. 
+With agriculture having to be pushed to the very limits to feed millions of people at once, it has become harder for farmers to analyze plant health fast enough at an affordable cost. Farmers have to waste time and money to identify what is wrong with plants. Once the farmer gets their results, it may already be too late, resulting in the loss of cash crops. AI can help farmers worldwide to identify what is wrong with their plants in an instant all while saving them money. 
 
+
+## Neural Network Accuracy
+![alt text](https://raw.githubusercontent.com/Mario5648/Plant-Disease-Identifier/main/Screen%20Shot%202021-01-13%20at%204.36.58%20PM.png)
 ## Dataset:
 I used a dataset from kaggle. Download the dataset from here: https://www.kaggle.com/c/plant-pathology-2020-fgvc7/rules
