@@ -8,5 +8,13 @@ With agriculture having to be pushed to the very limits to feed millions of peop
 
 ## Neural Network Accuracy
 ![alt text](https://raw.githubusercontent.com/Mario5648/Plant-Disease-Identifier/main/Screen%20Shot%202021-01-13%20at%204.36.58%20PM.png)
+
+
+## Test Results:
+1.![alt text](https://raw.githubusercontent.com/Mario5648/Plant-Disease-Identifier/main/Screen%20Shot%202021-01-13%20at%206.43.30%20PM.png)
+
+2.![alt text](https://raw.githubusercontent.com/Mario5648/Plant-Disease-Identifier/main/Screen%20Shot%202021-01-13%20at%206.46.22%20PM.png)
+
+
 ## Dataset:
 I used a dataset from kaggle. Download the dataset from here: https://www.kaggle.com/c/plant-pathology-2020-fgvc7/rules
