@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+
 X = pickle.load(open("./X.pickle","rb"))
 Y = pickle.load(open("./Y.pickle","rb"))
 
@@ -47,3 +48,5 @@ cnn = Sequential([
 cnn.compile(optimizer='adam',loss='sparse_categorical_crossentropy',metrics=['accuracy'])
 
 cnn.fit(X,Y,epochs=10)
+
+cnn.save('./Plant_CNN_Model')
